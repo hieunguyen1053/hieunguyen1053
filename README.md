@@ -11,6 +11,12 @@ Contact me
 > 📱 Personal phone: (+84)911320620 \
 > 👥 Facebook: [hieunguyen1053](facebook.com/hieunguyen1053)
 
+Skills
+------
+> Programing languages: Python, Javascript, Typescript, Java \
+> Frameworks, Libraries: Tensorflow, Keras, Django, Flask, ReactJS, NodeJS \
+> Databases: MySQL, PostgreSQL
+
 Education
 ---------
 > **08/2018 - now** _Ho Chi Minh city_ \
