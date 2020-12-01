@@ -20,7 +20,7 @@ Skills
 Education
 ---------
 > **08/2018 - now** _Ho Chi Minh city_ \
-> 📚 Student in computer science at Ton Duc Thang University. \
+> 📚 Student of computer science at Ton Duc Thang University. \
 > 💻 Member of the ICON Academic Club.
 
 <!--
