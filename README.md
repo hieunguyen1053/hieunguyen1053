@@ -7,9 +7,8 @@ Python developer
 Contact me
 -----------
 > ✉️ Personal email: [hieunguyen1053@outlook.com](mailto:hieunguyen1053@outlook.com) \
-> ✉️ Student email: [51800867@student.tdtu.edu.vn](mailto:51800867@student.tdtu.edu.vn) \
+> ✉️ Student email: [51800867@student.tdtu.edu.vn](mailto:51800867@student.tdtu.edu.vn) <!--\
 > 📱 Personal phone: (+84)911320620 \
-<!--
 > 👥 Facebook: [hieunguyen1053](https://www.facebook.com/hieunguyen1053/)
 -->
 
