@@ -14,7 +14,7 @@ Contact me
 
 Skills
 ------
-> Programing languages: Python, Javascript, Typescript, Java \
+> Programing languages: Python, Javascript, Java, C++ \
 > Frameworks, Libraries: Tensorflow, Keras, Django, Flask, ReactJS, NodeJS \
 > Databases: MySQL, PostgreSQL
 
