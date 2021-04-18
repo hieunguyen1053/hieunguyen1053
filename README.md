@@ -20,3 +20,6 @@ Education
 > **08/2018 - now** _Ho Chi Minh city_ \
 > 📚 Student of computer science at Ton Duc Thang University. \
 > 💻 Member of the ICON Academic Club.
+
+> **08/2020 - now** _Ho Chi Minh city_ \
+> 📚 Studying a master's program at Ton Duc Thang University.
