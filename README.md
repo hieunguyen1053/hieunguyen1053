@@ -22,4 +22,4 @@ Education
 > 💻 Member of the ICON Academic Club.
 
 > **08/2020 - now** _Ho Chi Minh city_ \
-> 📚 Studying a master's program at Ton Duc Thang University.
+> 📚 Studying master's program at Ton Duc Thang University.
