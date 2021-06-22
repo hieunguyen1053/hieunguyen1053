@@ -11,7 +11,7 @@ Contact me
 
 Skills
 ------
-> Knowledges: AI, ML, NLP, OOP \
+> Knowledge: AI, ML, NLP, OOP \
 > Programing languages: Python, Javascript, Java, C++ \
 > Frameworks, Libraries: Tensorflow, PyTorch, Django, Flask, NodeJS \
 > Databases: MySQL, PostgreSQL
