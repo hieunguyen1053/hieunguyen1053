@@ -1,6 +1,7 @@
 Hieu Nguyen - @hieunguyen1053
 =============================
-![](https://komarev.com/ghpvc/?username=hieunguyen1053&style=flat-square&label=Views)
+![Visitor](https://komarev.com/ghpvc/?username=hieunguyen1053&style=flat-square&label=Visitors)
+![GitHub followers](https://img.shields.io/github/followers/hieunguyen1053?label=Followers&style=flat-square)
 
 Python developer
 
@@ -24,3 +25,9 @@ Education
 
 > **08/2020 - now** _Ho Chi Minh city_ \
 > 📚 Studying master's program at Ton Duc Thang University.
+
+Stats
+-----
+![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hieunguyen1053&custom_title=Last+7+days+activities&langs_count=5&theme=vue-dark)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieunguyen1053&card_width=445&layout=compact&langs_count=10&theme=vue-dark)
