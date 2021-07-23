@@ -1,5 +1,7 @@
 Hieu Nguyen - @hieunguyen1053
 =============================
+![](https://komarev.com/ghpvc/?username=hieunguyen1053&style=flat-square&label=Views)
+
 Python developer
 
 Contact me
