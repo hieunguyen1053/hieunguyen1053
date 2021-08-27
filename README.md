@@ -26,6 +26,11 @@ Education
 > **08/2020 - now** _Ho Chi Minh city_ \
 > 📚 Studying master's program at Ton Duc Thang University.
 
+Work experience
+---------------
+> **09/2021 - now** _Ho Chi Minh city_ \
+> 💼 Intern at Ademax Digital Transformation Solution Center. 
+
 Stats
 -----
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hieunguyen1053&custom_title=Last+7+days+activities&langs_count=5&theme=vue-dark)
