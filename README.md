@@ -29,7 +29,7 @@ Education
 Work experience
 ---------------
 > **09/2021 - now** _Ho Chi Minh city_ \
-> 💼 Intern at Ademax Digital Transformation Solution Center. 
+> 💼 Developer at Ademax Digital Transformation Solution Center. 
 
 Stats
 -----
