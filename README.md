@@ -29,7 +29,8 @@ Education
 Work experience
 ---------------
 > **09/2021 - now** _Ho Chi Minh city_ \
-> 💼 Developer at Ademax Digital Transformation Solution Center. 
+> 💼 Developer at Ademax Digital Transformation Solution Center. \
+> 💻 Member of the NLP-KD Lab.
 
 Stats
 -----
