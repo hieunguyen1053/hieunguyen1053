@@ -12,7 +12,7 @@ Contact me
 
 Skills
 ------
-> Knowledge: ML, NLP, KBS
+> Knowledge: ML, NLP, KBS \
 > Programing languages: Python, Java, C++, Javascript \
 > Frameworks, Libraries: PyTorch, Tensorflow, Django, NodeJS \
 
