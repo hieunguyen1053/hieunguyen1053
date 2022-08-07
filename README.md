@@ -14,7 +14,7 @@ Skills
 ------
 > Knowledge: ML, NLP, KBS \
 > Programing languages: Python, Java, C++, Javascript \
-> Frameworks, Libraries: PyTorch, Tensorflow, Django, NodeJS \
+> Frameworks, Libraries: PyTorch, Tensorflow, Django, Transformers, Onnxruntime
 
 Education
 ---------
