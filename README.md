@@ -64,7 +64,7 @@ Project: Ademax Spelling (5 members, 1 front-end, 3 back-end, 1 ML)
 EDUCATION
 ---------
 
-Ton Duc Thang University (Vietnam) 08/2018 - now
+### Ton Duc Thang University (Vietnam) 08/2018 - now
 - Studying Computer Science
 - GPA: 8.2
 - Member of the ICON Acedemic Club (@iconclub)
