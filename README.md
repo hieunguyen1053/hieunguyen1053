@@ -38,6 +38,7 @@ PROFESSIONAL EXPERIENCE
 Project: Ademax OCR (5 members, 1 front-end, 3 back-end, 1 ML)
 
 [LINK DEMO](https://huggingface.co/spaces/ademax/ademaxocr-optimum)
+
 [VIDEO DEMO](https://youtu.be/k2i4GuYz3_w)
 
 - Description: A service used by a company to encode scanned documents into structured text documents, supporting metadata extraction.
