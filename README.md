@@ -59,7 +59,7 @@ Project: Ademax Spelling (5 members, 1 front-end, 3 back-end, 1 ML)
 - Responsibilities
     - Generate training data, train models running on multiple GPUs (8 x Nvidia A100), evaluate and compare with previous models.
     - Model optimization, model quantization, so that the model runs on CPU or GPU faster.
-    - Write an API to spell check Vietnamese text, classify many typos and suggest corrections. Supports executing multiple concurrent tasks and processing queues to avoid overloading.
+    - Write API to spell check Vietnamese text, classify many typos and suggest corrections. Supports executing multiple concurrent tasks and processing queues to avoid overloading.
     
 EDUCATION
 ---------
