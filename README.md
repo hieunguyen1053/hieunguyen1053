@@ -49,7 +49,7 @@ Project: Ademax OCR (5 members, 1 front-end, 3 back-end, 1 ML)
 
 Project: Ademax Spelling (5 members, 1 front-end, 3 back-end, 1 ML)
 
-- Description: The service is used to check the spelling of Vietnamese text. The service is also integrated into the Office Word Add-in, serving many objects such as businesses, students, and ordinary users.
+- Description: Service used to check the spelling of Vietnamese text. This service is also integrated into the Office Word Add-in, serving a wide range of customers such as businesses, students, and ordinary users.
 - Technologies:
     - Front-end: VueJS, AngularJS
     - Back-end: Django, Redis, PostgresSQL, ElasticSearch
