@@ -1,37 +1,73 @@
-Hieu Nguyen - @hieunguyen1053
-=============================
+Nguyen Trong Hieu (@hieunguyen1053) - AI Engineer
+=================================================
+
+Phone: +84 91132 0620 / Email: hieunguyen1053@outlook.com
+
+LinkedIn: https://www.linkedin.com/in/hieunguyen1053
+
+Huggingface: https://huggingface.co/hieunguyen1053
+
 ![Visitor](https://komarev.com/ghpvc/?username=hieunguyen1053&style=flat-square&label=Visitors)
 ![GitHub followers](https://img.shields.io/github/followers/hieunguyen1053?label=Followers&style=flat-square)
 
-Python developer
+SUMMARY
+-------
 
-Contact me
------------
-> ✉️ Personal email: [hieunguyen1053@outlook.com](mailto:hieunguyen1053@outlook.com) \
-> ✉️ Student email: [51800867@student.tdtu.edu.vn](mailto:51800867@student.tdtu.edu.vn)
+I’m an AI Engineer with 2 years of experience in Natural Language Processing. With my knowledge of NLP, I enjoy applying AI to life and creating the best experience for users. I also spend time reading Science papers, learning new technologies and best practices to become a better engineer.
 
-Skills
-------
-> Knowledge: ML, NLP, KBS \
-> Programing languages: Python, Java, C++, Javascript \
-> Frameworks, Libraries: PyTorch, Tensorflow, Django, Transformers, Onnxruntime
+TECHNICAL SKILLS
+----------------
 
-Education
+Programming Languages: Python, Java, C++
+
+Frameworks/Libraries:
+- Pytorch, Tensorflow
+- Transformers, Optimum
+- Onnxruntime, TensorRT
+
+Fields of research:
+- Machine Learning
+- Natural Language Processing
+- Computer Vision
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+
+### Ademax (Vietnam) - AI Engineer (2021 - Now)
+
+Project: Ademax OCR (5 members, 1 front-end, 3 back-end, 1 ML)
+
+- Description: A service used by a company to encode scanned documents into structured text documents, supporting metadata extraction.
+- Technologies:
+    - Front-end: VueJS
+    - Back-end: Django, Redis, PostgresSQL, ElasticSearch
+    - Machine learning: Pytorch, Transformers, Accelerate, Optimum
+- Responsibilities
+    - Generate training data, train models running on multiple GPUs (4 x Nvidia V100), evaluate and compare with previous models.
+    - Model optimization, model quantization, so that the model runs on CPU or GPU faster.
+    - Write API to execute multiple tasks concurrently, and handle queues to avoid overloading.
+
+Project: Ademax Spelling (5 members, 1 front-end, 3 back-end, 1 ML)
+
+- Description: The service is used to check the spelling of Vietnamese text. The service is also integrated into the Office Word Add-in, serving many objects such as businesses, students, and ordinary users.
+- Technologies:
+    - Front-end: VueJS, AngularJS
+    - Back-end: Django, Redis, PostgresSQL, ElasticSearch
+    - Machine learning: Pytorch, Transformers, Accelerate, Optimum
+- Responsibilities
+    - Generate training data, train models running on multiple GPUs (8 x Nvidia A100), evaluate and compare with previous models.
+    - Model optimization, model quantization, so that the model runs on CPU or GPU faster.
+    - Write an API to spell check Vietnamese text, classify many typos and suggest corrections. Supports executing multiple concurrent tasks and processing queues to avoid overloading.
+    
+EDUCATION
 ---------
-> **08/2018 - now** _Ho Chi Minh city_ \
-> 📚 Student of computer science at Ton Duc Thang University. \
-> 💻 Member of the ICON Academic Club.
 
-> **08/2020 - now** _Ho Chi Minh city_ \
-> 📚 Studying master's program at Ton Duc Thang University.
+Ton Duc Thang University (Vietnam) 08/2018 - now
+- Studying Computer Science
+- GPA: 8.2
+- Member of the ICON Acedemic Club (@iconclub)
 
-Work experience
----------------
-> **09/2021 - now** _Ho Chi Minh city_ \
-> 💼 Developer at Ademax Digital Transformation Solution Center. \
-> 💻 Member of the NLP-KD Lab.
-
-Stats
+STATS
 -----
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hieunguyen1053&custom_title=Last+7+days+activities&langs_count=5&theme=vue-dark)
 
