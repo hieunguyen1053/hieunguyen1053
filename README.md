@@ -1,7 +1,7 @@
 Nguyen Trong Hieu (@hieunguyen1053) - AI Engineer
 =================================================
 
-Phone: +84 91132 0620 / Email: hieunguyen1053@outlook.com
+Email: hieunguyen1053@outlook.com
 
 LinkedIn: https://www.linkedin.com/in/hieunguyen1053
 
